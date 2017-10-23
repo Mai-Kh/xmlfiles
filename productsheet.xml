@@ -1,9 +1,9 @@
-<?xml version=”1.0” encoding=”UTF-8” standalone=”yes”?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <!DOCTYPE ProductSheet SYSTEM "ProductSheet.dtd">
 
 <ProductSheet>
-	<name> Product Name <name />
-	<description> Product Description <description/>
-	<why> Why you need it <why/>
-	<risks> Risks mitigated <risks/>
-<ProductSheet />
+	<name> Product Name </name >
+	<description> Product Description </description>
+	<why> Why you need it </why>
+	<risks> Risks mitigated </risks>
+</ProductSheet>
